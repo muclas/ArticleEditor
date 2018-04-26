@@ -1,2 +1,0 @@
-# ArticleEditor
-Created with CodeSandbox
